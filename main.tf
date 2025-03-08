@@ -10,3 +10,9 @@ resource "azurerm_resource_group" "Vikrant" {
   
 }
 
+resource "azurerm_resource_group" "moriya" {
+    name = "shiv-parvati"
+    location = "eastus"
+  
+}
+
